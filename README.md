@@ -1,9 +1,9 @@
 # owf-learn-make #
 
-This repository contains [Open Water Foundation (OWF)](http://openwaterfoundation.org/)
+This repository contains [Open Water Foundation (OWF)](https://openwaterfoundation.org/)
 learning resources for the `make` program.
 
-See the deployed OWF [Learn / Make](http://learn.openwaterfoundation.org/owf-learn-make/) documentation.
+See the deployed OWF [Learn / Make](https://learn.openwaterfoundation.org/owf-learn-make/) documentation.
 
 ## Repository Contents ##
 
@@ -25,7 +25,7 @@ mkdocs-project/       Typical MkDocs project for this documentation.
 ## Development Environment ##
 
 The development environment for contributing to this project requires installation of Python, MkDocs, and Material MkDocs theme.
-Python 3 has been used for development.  See the [OWF / Learn MkDocs](http://learn.openwaterfoundation.org/owf-learn-mkdocs/)
+Python 3 has been used for development.  See the [OWF / Learn MkDocs](https://learn.openwaterfoundation.org/owf-learn-mkdocs/)
 documentation for information about installing these tools.
 
 ## Editing and Viewing Content ##
@@ -50,7 +50,7 @@ Contribute to the documentation as follows:
 
 ## Maintainers ##
 
-This repository is maintained by the [Open Water Foundation](http://openwaterfoundation.org/).
+This repository is maintained by the [Open Water Foundation](https://openwaterfoundation.org/).
 
 ## Contributors ##
 
